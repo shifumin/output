@@ -8,17 +8,31 @@ title: Output
 - 技術ブログ: [■](https://shifumin.hatenablog.com/){:target='_blank'}
 
 ## 作成物
-### Rails on Docker
-[https://github.com/shifumin/rails_on_docker](https://github.com/shifumin/rails_on_docker){:target='_blank'}  
-Rails開発環境 + 本番環境(ECS)構築用Dockerテンプレート。
+### Train Info Kanto
+[https://rubygems.org/gems/traininfo_kanto](https://rubygems.org/gems/traininfo_kanto){:target='_blank'}  
+[https://github.com/shifumin/traininfo_kanto](https://github.com/shifumin/traininfo_kanto){:target='_blank'}  
+関東エリアの列車の運行情報を取得するgem。  
+[Yahoo!路線情報](https://transit.yahoo.co.jp/traininfo/area/4/){:target='_blank'}をスクレイピングしている。  
+
+CLIで手軽に利用するためのDocker Hubに[イメージ](https://hub.docker.com/r/shifumin/traininfo_kanto/){:target='_blank'}も用意した。  
+
+### Docker Capybara Chrome headless
+[https://github.com/shifumin/docker-capybara-chrome-headless](https://github.com/shifumin/docker-capybara-chrome-headless){:target='_blank'}  
+Capybara + SeleniumでHeadless Chromeを利用するためのDockerテンプレート。  
+天気情報キャプチャ通知botのために作成。
 
 ### Docker Rails Heroku
 [https://github.com/shifumin/docker_rails_heroku](https://github.com/shifumin/docker_rails_heroku){:target='_blank'}  
 Rails開発環境 + 本番環境(Heroku)構築用Dockerテンプレート。
 
+### Rails on Docker
+[https://github.com/shifumin/rails_on_docker](https://github.com/shifumin/rails_on_docker){:target='_blank'}  
+Rails開発環境 + 本番環境(ECS)構築用Dockerテンプレート。
+
 ### Jekyll Docker
-[https://github.com/shifumin/jekyll-docker](https://github.com/shifumin/jekyll-docker){:target='_blank'}  
-JekyllでGitHub Pagesを簡単に作成するためのDockerテンプレート。
+[https://github.com/shifumin/jekyll-docker](https://github.com/shifumin/jekyll-docker){:target='_blank'}
+JekyllでGitHub Pagesを簡単に作成するためのDockerテンプレート。  
+このページの作成はこのテンプレートを利用した。  
 
 ### Latest Fav
 [https://github.com/shifumin/latest_fav](https://github.com/shifumin/latest_fav){:target='_blank'}  
