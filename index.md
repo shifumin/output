@@ -49,6 +49,6 @@ Vagrant上に開発環境(CentOS)を構築するAnsible playbook。
 
 ## その他
 ### ブログ記事
-#### [Heroku+RailsでLine botを作る](https://shifumin.hatenablog.com/entry/2018/07/05/084000){:target='_blank'}
-#### [DockerとCircleCIを使ってRailsアプリの自動テスト & 自動Herokuへのデプロイ環境を作った](https://shifumin.hatenablog.com/entry/2018/04/18/223000){:target='_blank'}
-#### [列車運行情報を取得するgemを作った](https://shifumin.hatenablog.com/entry/2018/10/10/203000){:target='_blank'}
+- [Heroku+RailsでLine botを作る](https://shifumin.hatenablog.com/entry/2018/07/05/084000){:target='_blank'}
+- [DockerとCircleCIを使ってRailsアプリの自動テスト & 自動Herokuへのデプロイ環境を作った](https://shifumin.hatenablog.com/entry/2018/04/18/223000){:target='_blank'}
+- [列車運行情報を取得するgemを作った](https://shifumin.hatenablog.com/entry/2018/10/10/203000){:target='_blank'}
